@@ -1,0 +1,33 @@
+# import sqlite3
+# conn=sqlite3.connect('parent.db')
+# c=conn.cursor()
+# # print("Opened database succesfully")
+# conn.execute("update company set salary=50000")
+# conn.commit()
+# # print("Total number of rows upated:",conn.total_changes)
+# c.execute("select * from company")
+# for row in c:
+#     print("id=",row[0])
+#     print("id=", row[1])
+#     print("id=", row[2])
+#     print("id=", row[3])
+#     print("id=", row[4],"\n")
+#
+#
+# conn.close()
+
+print("\U0001f601")
+print("\U0001f602")
+print("\U0001f603")
+print("\U0001f604")
+print("\U0001f605")
+print("\U0001f606")
+print("\U0001f607")
+print("\U0001f608")
+print("\U0001f609")
+print("\U0001f610")
+print("\U0001f612")
+print("\U0001f611")
+print("\U0001f613")
+print("\U0001f614")
+print("\U0001f615")
