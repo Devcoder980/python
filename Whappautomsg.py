@@ -1,5 +1,5 @@
 from pyautogui import *
-l=['+9183472392980','+919888341345']
+l=['+918347232980','+919888341345']
 # auto Whatapp msg sent web whatapp
 rightClick(340, 180)
 for i in l:
